@@ -1,1 +1,4 @@
-# ThesisOfGraduationProject
+# Thesis Of Graduation Project
+## Abstract
+
+  This e-commerce project is focused on the development of an online platform for selling glasses with a virtual try-on feature. The platform will use augmented reality to simulate glasses fit, it analyzes environmental data gathered by device sensors and overlays additional contextual information (in 2D or 3D) on top of that image, to create realistic virtual representations of glasses on a customer's face. This will allow customers to try on a variety of frames without having to physically visit a store, and can also help to reduce the number of returns due to poor fit. From the name our system provides a set of functionalities such as, browsing items, adding them to cart and making purchases. Overall, this e-commerce project aims to improve customer satisfaction and make the purchasing process more convenient and efficient for customers.
